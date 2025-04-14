@@ -1,5 +1,5 @@
 # 🟨 How to Run This Java Program
-This repository contains a simple Java program that prints `Hello, World!` when executed. You can run this on any computer with Java installed.
+This repository contains a simple Java program that runs the program for the project when executed. You can run this on any computer with Java installed.
 
 ## ✅ Requirements
 - Java (JDK) version 11 or higher.
